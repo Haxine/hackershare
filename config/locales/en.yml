@@ -16,11 +16,13 @@ en:
   comment_added: Comment added
   comments: Comments
   created: Created
+  chinese: Chinese
   chrome_extension: Chrome Extension
   confirm_delete: Are you sure?
   daily: Daily
   email_or_password_is_wrong: Email or password is wrong
   empty_data: Empty data
+  english: English
   forgot_your_password?: Forgot your password?
   follow: Follow
   followings: Followings
