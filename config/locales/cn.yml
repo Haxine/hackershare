@@ -28,6 +28,7 @@ cn:
   followings: 关注人的分享
   hackers: 会员
   install_the_chrome_extension: 安装 Chrome 插件
+  language: 语言
   likes: 收藏
   login_failed: 登录失败
   login_required: 需要先登录

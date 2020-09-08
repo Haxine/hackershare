@@ -55,11 +55,11 @@ module ApplicationHelper
   end
 
   def filter_bookmark_lang
-    valid_filter_bookmark_langs.include?(params[:bookmark_lang]) ? params[:bookmark_lang] : 'all'
+    valid_filter_bookmark_langs.include?(params[:bookmark_lang]) ? params[:bookmark_lang] : 'language'
   end
 
   def valid_filter_bookmark_langs
-    %w[all chinese english]
+    %w[language chinese english]
   end
 
   def hacker_link_to_active(text, url, current = :created, options = {})
